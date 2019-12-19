@@ -1,0 +1,113 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size:14px;
+}
+
+.wrap {
+    width: 100%;
+    height: auto;
+}
+
+
+/* start Login image css */
+
+.loginbg-color {
+    background-color: #B1DBFF;
+    height: calc(100vh - 0px);
+}
+
+.imgclass {
+    position: relative;
+    top: 130px;
+}
+/* end Login image css */
+
+
+/* start login form css */
+
+.login-form {
+margin-top: 50%;
+padding: 0px 50px;
+}
+
+.inputField{
+    width: 100% !important;
+    margin-bottom: 28px !important;   
+  
+}
+.fontSize{
+    margin-bottom: 25px;
+    font-family: Montserrat, medium;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.loginBtn{
+    width: 100%;
+  
+}
+.borderRadiusLogin{
+    border-radius: 30px !important; 
+}
+
+.borderRadius{
+    border-radius: 30px 0px 0px 26px !important;
+    border-right: 0px !important;
+   
+    opacity: 0px !important;
+}
+.pText{
+    margin: 29px 0 0px;
+    cursor: pointer;
+}
+.spanIcon{
+    background: none !important;
+    border-radius: 0px 30px 30px 0px !important;  
+}
+
+.remember {
+    font-size:12px;
+}
+.remember label {
+    cursor: pointer;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+/* placeholder */
+
+::placeholder {
+    font-size: 13px;
+  }
+
+
+/*
+#login1{
+    border:1px solid black;
+    margin-top:35px;
+    margin-bottom:10px;
+    margin-left:60px;
+  
+}*/
+
+/* #header{
+    
+}
+#loality1{
+    
+} */
+
+/*#main11{
+    position: absolute;
+    
+width:627px;
+padding-top:50px;
+
+border-radius:5px;
+}*/
+.iconPadding{
+    padding: 11px;
+    border-left: 0;
+}
